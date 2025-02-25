@@ -40,6 +40,10 @@ body {
     margin-right: -20px;
 }
 
+.upper .upper-name {
+    margin-left: -20px;
+}
+
 .upper .upper-name h1 {
     margin-bottom: 20px;
 }
